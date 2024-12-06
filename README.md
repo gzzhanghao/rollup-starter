@@ -1,5 +1,5 @@
-# ts-starter
+# rollup-starter
 
 ```bash
-npx degit https://github.com/gzzhanghao/ts-starter.git
+npx degit https://github.com/gzzhanghao/rollup-starter.git
 ```
